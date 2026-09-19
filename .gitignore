@@ -1,0 +1,30 @@
+# Build
+cmake-build-*/
+build/
+out/
+**/CMakeCache.txt
+**/CMakeFiles/
+**/compile_commands.json
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.suo
+*.ncb
+
+# Compiled
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.pdb
+*.ilk
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
